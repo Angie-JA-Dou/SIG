@@ -8,7 +8,7 @@
 
 目标： 为deepin操作系统维护系统工具软件包。
 
-活动范围：[社区论坛](https://bbs.deepin.org/)、企业微信群等。
+活动范围：[社区论坛](https://bbs.deepin.org/)、微信群等。
 
 
 ## 小组章程
@@ -19,9 +19,10 @@
 
 ## 讨论渠道
 
-企业微信群
+微信群
 
 ## 相关链接
 
-- [GitHub 上的小组团队]
+- http://gnu.org/software/coreutils
+
 
