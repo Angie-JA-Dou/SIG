@@ -8,7 +8,10 @@
 
 目标： 为deepin操作系统维护系统工具软件包。
 
-活动范围：[社区论坛](https://bbs.deepin.org/)、微信群等。
+活动范围：
+[社区论坛](https://bbs.deepin.org/)
+[deepin-community组织](https://github.com/orgs/deepin-community)
+QQ群等。
 
 
 ## 小组章程
@@ -19,7 +22,7 @@
 
 ## 讨论渠道
 
-微信群
+QQ群(群号：753453587)
 
 ## 相关链接
 
